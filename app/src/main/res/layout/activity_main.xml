@@ -49,7 +49,7 @@
                     android:gravity="center"
                     android:text="@string/cancel"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_divide"
@@ -60,7 +60,7 @@
                     android:gravity="center"
                     android:text="@string/divide"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_multiply"
@@ -71,7 +71,7 @@
                     android:gravity="center"
                     android:text="@string/multiply"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_clear"
@@ -82,7 +82,7 @@
                     android:gravity="center"
                     android:text="@string/clear"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_seven"
@@ -93,7 +93,7 @@
                     android:gravity="center"
                     android:text="@string/seven"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_eight"
@@ -104,7 +104,7 @@
                     android:gravity="center"
                     android:text="@string/eight"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_nine"
@@ -115,7 +115,7 @@
                     android:gravity="center"
                     android:text="@string/nine"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_plus"
@@ -126,7 +126,7 @@
                     android:gravity="center"
                     android:text="@string/plus"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_four"
@@ -137,7 +137,7 @@
                     android:gravity="center"
                     android:text="@string/four"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_five"
@@ -148,7 +148,7 @@
                     android:gravity="center"
                     android:text="@string/five"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_six"
@@ -159,7 +159,7 @@
                     android:gravity="center"
                     android:text="@string/six"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_minus"
@@ -170,7 +170,7 @@
                     android:gravity="center"
                     android:text="@string/minus"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_one"
@@ -181,7 +181,7 @@
                     android:gravity="center"
                     android:text="@string/one"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_two"
@@ -192,7 +192,7 @@
                     android:gravity="center"
                     android:text="@string/two"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_three"
@@ -203,7 +203,7 @@
                     android:gravity="center"
                     android:text="@string/three"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <ImageButton
                     android:id="@+id/btn_sqrt"
@@ -222,7 +222,7 @@
                     android:gravity="center"
                     android:text="@string/reciprocal"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_zero"
@@ -233,7 +233,7 @@
                     android:gravity="center"
                     android:text="@string/zero"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_dot"
@@ -244,7 +244,7 @@
                     android:gravity="center"
                     android:text="@string/dot"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
 
                 <Button
                     android:id="@+id/btn_equal"
@@ -255,7 +255,7 @@
                     android:gravity="center"
                     android:text="@string/equal"
                     android:textColor="@color/black"
-                    android:textSize="dimen/button_font_size" />
+                    android:textSize="@dimen/button_font_size" />
             </GridLayout>
         </LinearLayout>
     </ScrollView>
